@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-redux-blog-api/static/js/main.9d9e8fbb.chunk.js",
-    "main.js.map": "/react-redux-blog-api/static/js/main.9d9e8fbb.chunk.js.map",
-    "runtime~main.js": "/react-redux-blog-api/static/js/runtime~main.d5a30229.js",
-    "runtime~main.js.map": "/react-redux-blog-api/static/js/runtime~main.d5a30229.js.map",
-    "static/js/2.d0ee348a.chunk.js": "/react-redux-blog-api/static/js/2.d0ee348a.chunk.js",
-    "static/js/2.d0ee348a.chunk.js.map": "/react-redux-blog-api/static/js/2.d0ee348a.chunk.js.map",
-    "index.html": "/react-redux-blog-api/index.html",
-    "precache-manifest.1b853e0b9ad5e6aca8ded67e2094c9b9.js": "/react-redux-blog-api/precache-manifest.1b853e0b9ad5e6aca8ded67e2094c9b9.js",
-    "service-worker.js": "/react-redux-blog-api/service-worker.js"
+    "main.js": "/react_redux_blog_api/static/js/main.9d9e8fbb.chunk.js",
+    "main.js.map": "/react_redux_blog_api/static/js/main.9d9e8fbb.chunk.js.map",
+    "runtime~main.js": "/react_redux_blog_api/static/js/runtime~main.9145624e.js",
+    "runtime~main.js.map": "/react_redux_blog_api/static/js/runtime~main.9145624e.js.map",
+    "static/js/2.d0ee348a.chunk.js": "/react_redux_blog_api/static/js/2.d0ee348a.chunk.js",
+    "static/js/2.d0ee348a.chunk.js.map": "/react_redux_blog_api/static/js/2.d0ee348a.chunk.js.map",
+    "index.html": "/react_redux_blog_api/index.html",
+    "precache-manifest.64b73e9a9f698a178feb1e5bc7698a59.js": "/react_redux_blog_api/precache-manifest.64b73e9a9f698a178feb1e5bc7698a59.js",
+    "service-worker.js": "/react_redux_blog_api/service-worker.js"
   }
 }
